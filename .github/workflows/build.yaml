@@ -6,6 +6,7 @@ on:
     # Always build when there are new commits to master
     branches:
       - master
+      - Meme1
 
     # Always build release-tags
     tags:
